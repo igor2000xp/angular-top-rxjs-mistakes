@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
+## Links
+
+[YouTube](youtu.be/OhuRvfcw3Tw)
+
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/angular-top-rxjs-mistakes)
+
+[GitHub](https://github.com/igor2000xp/angular-top-rxjs-mistakes)
+
+/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/RxJs-DMezhenskyi
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
